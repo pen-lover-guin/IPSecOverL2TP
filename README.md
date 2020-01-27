@@ -178,4 +178,4 @@ sudo apt-get install network-manager-l2tp-gnome
 
 ![IPSec settings](https://sun1-26.userapi.com/eGowqrxIuikJXwaPoFYdA97C3WjxkOw_SooKMg/rIhOWsk6CQI.jpg )
 
-Выбираем OK и нажимаем Apply. Настройка клиента завершена. 
+Выбираем OK и нажимаем Add. Настройка клиента завершена. 
