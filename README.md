@@ -27,7 +27,7 @@ Client - Ubuntu 18.04
 
 ```
 sudo apt update  
-sudo apt-get install strongswan xl2td
+sudo apt-get install strongswan xl2tpd
 ```
 ## Шаг 2. Настройка /etc/ipsec.conf 
 
