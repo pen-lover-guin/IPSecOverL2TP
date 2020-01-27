@@ -162,7 +162,7 @@ sudo apt-get update
 sudo apt-get install network-manager-l2tp
 sudo apt-get install network-manager-l2tp-gnome
 ```
-Для подключения в VPN воспользуемся следующей инструкцией. Заходим в Settings -> Network.
+Для подключения к VPN воспользуемся следующей инструкцией. Заходим в Settings -> Network.
 
 ![Настройка](https://sun1-86.userapi.com/t5VBHad3DOLRkw3K8OAfB6hzdb6gIfb2aMzs6w/dqIqedhAibE.jpg )
 
