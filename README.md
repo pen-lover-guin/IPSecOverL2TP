@@ -136,7 +136,7 @@ test    l2tpd     TestTest      "*"
 Чтобы убедиться в загрузке конфигурации, перезапустим сервис L2TP и StrongSwan:
 
 ```
-sudo service xl2tp start/restart
+sudo service xl2tpd start/restart
 sudo service strongswan start/restart
 ```
 ## Шаг 7. Настройка форвардинга
